@@ -1,0 +1,9 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-jwt-extended
+psycopg2
+cryptography
+xlrd
+pandas
+Pillow
